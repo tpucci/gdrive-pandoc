@@ -19,8 +19,7 @@ Ce convertisseur utilise [Gdrive](https://github.com/prasmussen/gdrive), [Pandoc
 | SECTIONS_FILEPATH  | Fichier définissant les références GDrive à compiler  |
 | BUILDNAME  | Nom de sortie  |
 | REFERENCES  |  Référence GDrive à utiliser comme référence (natbib) |
-| REFERENCES_NAME  |  Le nom du document GDrive à utiliser comme références suivi de l'extension `.asc`. *Exemple : si le document s'appelle "Références" régler cette variable sur `Référencs.asc` |
-
+| REFERENCES_NAME  |  Le nom du document GDrive à utiliser comme références suivi de l'extension `.asc`. *Exemple : si le document s'appelle "Références" régler cette variable sur `Références.asc` |
 |BEFORE|Fichier à insérer avant le début du document (Déprécié : `$include-before$` dans la template)|
 |AFTER|Fichier à insérer après la fin du document (Déprécié : `$include-after$` dans la template)|
 |TEMPLATE|Template LaTeX à utiliser|
