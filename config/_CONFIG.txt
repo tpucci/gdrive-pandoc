@@ -1,0 +1,9 @@
+SECTIONS_FILEPATH=config/_SECTIONS.txt
+BUILDNAME=Offre-jeu-lean
+REFERENCES=1J36yzOVooygqgkj6qqGpjMYjn-Y4D1IOWPnvPJGqUGg
+REFERENCES_NAME=Réferences.asc
+BEFORE=12QfDjhrdbC5rUqT8HmDbMC4T1cKujs8ClB3EHq8FuQc
+AFTER=199NkhJ-DK6CQq8UtA-9biytsOit63kkD8TQjV8jaVdo
+TEMPLATE=template.tex
+CSL=../elsevier-with-titles
+EXPORT=0B3GrYpwpMUIiaFpQMk5uemo1S3M
